@@ -1,3 +1,12 @@
+// Q-3 square pattern n = 3
+//                    1 2 3 
+//                    4 5 6 
+//                    7 8 9 
+
+
+
+
+
 #include <iostream>
 using namespace std;
 
